@@ -19,4 +19,5 @@ Análisis exploratorio de datos (EDA), ingeniería de características y visuali
 ├── dataset_limpio.csv                                                # Dataset procesado con métricas derivadas
 ├── dataset_dashboard.cvs                                             # Dataset procesado para el dashboard (Beautificación)
 ├── Mas_docentes_menos_escuelas.ipynb                                 # Notebook unificada (Limpieza, EDA y Validación)
+├── Mas_docentes_menos_escuelas.pdf                                   # Dashboard estático 
 └── README.md                                                         # Documentación del proyecto
